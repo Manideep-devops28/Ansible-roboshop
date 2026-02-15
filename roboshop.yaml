@@ -5,7 +5,7 @@
   vars:
     sg_id: sg-0781c7d1ce5f7ff5f
     ami_id: ami-02c8cd21c3ca32ce4
-    domain_name: daws88s.online
+    domain_name: manideep88s.online
     env: dev
     action: create
     instances:
